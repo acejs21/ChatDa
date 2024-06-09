@@ -13,8 +13,9 @@ public class ChatGPTRequestDTO {
 
     public ChatGPTRequestDTO(String model, String systemPrompt, String userPrompt) {
         this.model = model;
-        this.messages =  new ArrayList<>();
+        this.messages = new ArrayList<>();
         this.messages.add(new MessageDTO("system", systemPrompt));
         this.messages.add(new MessageDTO("user", userPrompt));
     }
 }
+
