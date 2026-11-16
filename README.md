@@ -90,6 +90,3 @@ https://youtu.be/XFfiGo3Jq-U
   
 <img src="https://github.com/OpenSource-SW-Project/ChatDa/assets/74255823/2093efed-342d-4035-8983-d0160a303f8f" width="100%">
 
----
-### [Contributors]
-**김진호(@Jinho622) / 박재현(@ParkJh38) / 송영범(@zxc534) / 진용욱(@roadl)**  
